@@ -11,6 +11,6 @@ _Мое резюме вы можете найти по [ссылке](https://hh
   -  [Тест-кейсы](https://docs.google.com/spreadsheets/d/1MWEPxkbE7OKTQPDzTJLxf6miZepUR7sa/edit?usp=sharing&ouid=112920237054793487303&rtpof=true&sd=true)
   -  [Баг-репорты](https://qa-learning-kristina.atlassian.net/jira/software/projects/KAN/boards/1)
   -  [Тест план](https://docs.google.com/document/d/1BB9nD_8Y4ofSJraxViuY3ZirYXNTIVRWbXI4k6xdaMo/edit?usp=sharing)
-  -   [Пример реального тестового задания]([https(https://docs.google.com/spreadsheets/d/13d0TQKkRAbtvjltyE7mrrztiXXllIjQJ/edit?usp=sharing&ouid=112920237054793487303&rtpof=true&sd=true)
+  -   [Пример реального тестового задания](https://docs.google.com/spreadsheets/d/13d0TQKkRAbtvjltyE7mrrztiXXllIjQJ/edit?usp=sharing&ouid=112920237054793487303&rtpof=true&sd=true)
 - API 
   -  [Тестирование запросов API](https://docs.google.com/spreadsheets/d/1_kIlpXzw-VzLYiiAj0ESX7XJAzU9IC2IkBq6Cu-LGs4/edit?usp=sharing)
