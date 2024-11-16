@@ -15,7 +15,7 @@ _Мое резюме вы можете найти по [ссылке](https://hh
 - API 
   -  [Тестирование запросов API](https://docs.google.com/spreadsheets/d/1_kIlpXzw-VzLYiiAj0ESX7XJAzU9IC2IkBq6Cu-LGs4/edit?usp=sharing)
     
-## Инструменты и технологии
+## Инструменты
 
 <a href="https://www.postman.com/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Postman.png" alt="Postman" width="50" height="50" />
