@@ -1,6 +1,6 @@
 # Привет!👋 
 
-![GIF](<div class="tenor-gif-embed" data-postid="26193289" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/using-the-computer-debbie-harper-harper-house-on-the-pc-typing-gif-26193289">Using The Computer Debbie Harper GIF</a>from <a href="https://tenor.com/search/using+the+computer-gifs">Using The Computer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)
+![GIF](https://tenor.com/ru/view/using-the-computer-debbie-harper-harper-house-on-the-pc-typing-gif-26193289)
 
 
 Меня зовут Кристина, я начинающий тестировщик👩‍💻
