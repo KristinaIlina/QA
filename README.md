@@ -31,3 +31,6 @@ _Мое резюме вы можете найти по [ссылке](https://hh
 <a href="https://figma.com">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Figma.svg" alt="Figma" width="50" height="50" /> 
 </a>
+<a href="https://www.telerik.com/fiddler">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Fiddler.png" alt="Fiddler" width="50" height="50" /> 
+</a>
