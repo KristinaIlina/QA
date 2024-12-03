@@ -1,6 +1,6 @@
 # Привет!👋 
 
-![GIF](https://tenor.com/ru/view/using-the-computer-debbie-harper-harper-house-on-the-pc-typing-gif-26193289)
+![GIF](https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif)
 
 
 Меня зовут Кристина, я начинающий тестировщик👩‍💻
