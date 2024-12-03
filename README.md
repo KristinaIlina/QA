@@ -1,6 +1,7 @@
 # Привет!👋 
 
-![GIF](https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif)
+![GIF](https://tenor.com/ru/view/desktop-computer-new-computers-screens-much-time-mantelpiece-clocks-gif-1999330492061041302.gif)
+
 
 
 Меня зовут Кристина, я начинающий тестировщик👩‍💻
