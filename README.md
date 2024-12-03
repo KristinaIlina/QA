@@ -35,5 +35,5 @@ _Мое резюме вы можете найти по [ссылке](https://hh
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Fiddler.png" alt="Fiddler" width="50" height="50" /> 
 </a>
 <a href="https://jmeter.apache.org">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Jmeter.png" alt="Jmeter" width="50" height="50" /> 
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Jmeter.org" alt="Jmeter" width="50" height="50" /> 
 </a>
