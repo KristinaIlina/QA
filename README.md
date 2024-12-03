@@ -1,4 +1,6 @@
 # Привет!👋 
+
+![GIF](https://tenor.com/ru/view/using-the-computer-debbie-harper-harper-house-on-the-pc-typing-gif-26193289)
 Меня зовут Кристина, я начинающий тестировщик👩‍💻
 
 _Мое резюме вы можете найти по [ссылке](https://hh.ru/applicant/resumes/view?resume=e1a25e96ff0c7457710039ed1f35364574424e&hhtmFrom=resume_builder_experience)_
