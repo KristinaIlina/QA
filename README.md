@@ -36,6 +36,6 @@ _Мое резюме вы можете найти по [ссылке](https://hh
 </a>
 <a href="https://www.charlesproxy.com/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Charles.png" alt="Charles" width="50" height="50" />
-<a href="https://jmeter.apache.org/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Jmeter.png" alt="Jmeter" width="50" height="50" /> 
+<a href="https://pairwise.teremokgames.com/?ysclid=m48rr886tc324422739">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Pairwise.png" alt="Jmeter" width="50" height="50" /> 
 </a>
