@@ -1,8 +1,6 @@
 # Привет!👋 
 
-![GIF](https://tenor.com/ru/view/desktop-computer-new-computers-screens-much-time-mantelpiece-clocks-gif-1999330492061041302.gif)
-
-
+![GIF](https://github.com/KristinaIlina/QA/blob/main/icons/e22b55e3b19b11ef84f8e64959f934a7.gif)
 
 Меня зовут Кристина, я начинающий тестировщик👩‍💻
 
