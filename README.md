@@ -30,7 +30,7 @@ _Мое резюме вы можете найти по [ссылке](https://hh
 <img src="https://github.com/KristinaIlina/QA/blob/main/icons/Figma.svg" alt="Figma" width="50" height="50" /> 
 </a>
 <a href="https://www.telerik.com/fiddler">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Fiddler.png" alt="Fiddler" width="50" height="50" /> 
+<img src="https://github.com/KristinaIlina/QA/blob/main/icons/Fiddler.png" alt="Fiddler" width="50" height="50" /> 
 </a>
 <a href="https://www.atlassian.com/software/jira">
 <img src="https://github.com/KristinaIlina/QA/blob/main/icons/Jira.png" width="50" height="50" />
