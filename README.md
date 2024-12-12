@@ -38,3 +38,4 @@ _Мое резюме вы можете найти по [ссылке](https://hh
 <a href="https://github.com/KristinaIlina/QA/blob/main/icons/sql.png">
 <img src="https://github.com/KristinaIlina/QA/blob/main/icons/sql.png" alt="SQL" width="50" height="50" />
 </a>
+<img src="https://github.com/KristinaIlina/QA/blob/main/icons/jmeter.png" alt="SQL" width="50" height="50" />
