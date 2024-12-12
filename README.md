@@ -39,3 +39,4 @@ _Мое резюме вы можете найти по [ссылке](https://hh
 </a>
 <a href="https://www.atlassian.com/ru/software/jira">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Jira.png" alt="Jira" width="50" height="50" />
+</a>
