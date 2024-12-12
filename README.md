@@ -23,7 +23,7 @@ _Мое резюме вы можете найти по [ссылке](https://hh
 ## Инструменты и технологии
 
 <a href="https://www.postman.com/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Postman.png" alt="Postman" width="50" height="50" />
+<img src="https://github.com/KristinaIlina/QA/blob/main/icons/Postman.png" alt="Postman" width="50" height="50" />
 </a>
 <a href="https://social.qakrotov.com/swagger/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/swagger.png" alt="Swagger" width="50" height="50" />
