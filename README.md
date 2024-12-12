@@ -32,8 +32,8 @@ _Мое резюме вы можете найти по [ссылке](https://hh
 <a href="https://www.telerik.com/fiddler">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Fiddler.png" alt="Fiddler" width="50" height="50" /> 
 </a>
-<a href="https://www.atlassian.com/ru/software/jira">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Jira.png" alt="Jira" width="50" height="50" />
+<a href="https://www.atlassian.com/software/jira">
+<img src="https://github.com/KristinaIlina/QA/blob/main/icons/Jira.png" width="50" height="50" />
 </a>
 <a href="https://github.com/KristinaIlina/QA/blob/main/icons/sql.png">
 <img src="https://github.com/KristinaIlina/QA/blob/main/icons/sql.png" alt="SQL" width="50" height="50" />
