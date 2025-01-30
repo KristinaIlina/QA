@@ -6,7 +6,7 @@
 
 _Мое резюме вы можете найти по [ссылке](https://hh.ru/applicant/resumes/view?resume=e1a25e96ff0c7457710039ed1f35364574424e&hhtmFrom=resume_builder_experience)_
 
-В ноябре 2024 года я закончила курсы ментора Николая Кротова "QA Основы професии тестировщик". [Сертификат](https://drive.google.com/file/d/1FvmzueqRsNR7Adzp8jHy4gjBm_76RGX5/view?usp=sharing)
+В декабре 2024 года я закончила курсы ментора Николая Кротова "QA Основы професии тестировщик". [Сертификат](https://drive.google.com/file/d/1FvmzueqRsNR7Adzp8jHy4gjBm_76RGX5/view?usp=sharing)
 
 ## Портфолио 
 Мое портфолио собрано на основе нескольких проектов которые я выполняла в рамках домашнего задания при прохождении курса.
